@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-http-template
+module github.com/shadow5566/1234
 
 go 1.22
 
